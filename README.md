@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamtang
 - 👀 I’m interested in **Computer Vision, Autonomous Driving Perception, AI Large Models, and Architecture Design**.
 - 🌱 I’m currently learning **LLM, Transformer, and Full-Stack Development (Frontend & Backend)**.
-- 💞️ I’m looking to collaborate on **Deep Learning Visual Applications**.
+- 💞️ I’m looking to collaborate on **Computer Vision Applications**.
 - 📫 How to reach me - sdotc30@outlook.com
 
 <!---
